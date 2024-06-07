@@ -1,8 +1,0 @@
-[
-  {
-    "remote": "github",
-    "repository": "nightfox1e/android_device_xiaomi_emerald",
-    "target_path": "device/xiaomi/emerald"
-    "branch": "emerald-user-12-TP1A.220624.014-V14.0.1.0.TNFEUXM-release-keys"
-  }
-]
